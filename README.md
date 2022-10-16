@@ -13,6 +13,6 @@ I have received my certificates of Java programming nanodegree from Udacity and 
 I'm interested in full-time/part-time Full Stack developer jobs. Please feel free to get in touch with me via my email address: uadam12@gmail.com.
 
 
-Proficient: ​ HTML, CSS, bootstrap, JavaScript, Ajax, jQuery, Java, Python, Design pattern, Unit testing, Flask, SQLAlchemy, PHP, AWS, Maven, Docker, SQL, etc.
+Proficient: ​ HTML, CSS, bootstrap, JavaScript, Ajax, jQuery, nodejs, express js, Java, Python, Design pattern, Unit testing, Flask, SQLAlchemy, PHP, AWS, Maven, Docker, SQL, etc.
 Knowledgeable:  ReactJS, SASS, Django, C++, Typescript.
 Familiar: ​ Hausa, English and Arabic languages.
