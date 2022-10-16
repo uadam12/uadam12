@@ -1,4 +1,8 @@
-I am Usman Adam Imam full Stack developer who enjoys developing functional and interactive application. I have strong technical skills and an academic background in physics, statistics, and mathematics.
+![Usman Adam Imam](./github-banner.jpg)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/uadam12/)
+
+Hi, I am Usman Adam Imam Full Stack developer who enjoys developing functional and interactive application. I have strong technical skills and an academic background in physics, statistics, and mathematics.
 
 My passion lies in solving programming problems with efficient and accurate algorithms.
 
